@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+lib/
+coverage/
+
+# Runtime data
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+desktop.ini
+
+# Dependency directories (if using other package managers)
+.pnp/
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output/
+
+# Lint/format
+.eslintcache
+.prettiercache
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.tgz
+*.log
+
+# Optional: lockfiles (choose the one you use and ignore the rest)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
